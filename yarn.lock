@@ -5100,6 +5100,23 @@ gatsby-telemetry@^1.1.46:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
+gatsby-theme-apollo-clone@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-apollo-clone/-/gatsby-theme-apollo-clone-0.0.1.tgz#60c74943198dd6d225ff7fa881546500f0a9a955"
+  integrity sha512-GSBTMBcNvnbqGIO2HEHvxxClJq2hLjVgptQQgjeMVg8c3IpQ5tS8N52c+3UPtBPSH9ijYvgOYydEFmKu9oiwxg==
+  dependencies:
+    "@mdx-js/mdx" "^1.5.1"
+    "@mdx-js/react" "^1.5.1"
+    classnames "^2.2.6"
+    gatsby-plugin-layout "^1.1.16"
+    gatsby-plugin-mdx "^1.0.58"
+    gatsby-source-filesystem "^2.1.39"
+    gatsby-transformer-remark "^2.6.38"
+    prop-types "^15.7.2"
+    react "^16.12"
+    react-dom "^16.12"
+    rehype-react "^4.0.1"
+
 gatsby-transformer-remark@^2.6.38:
   version "2.6.38"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-2.6.38.tgz#5fe340d1ad7f0ef1a615ccc455c70dfdb1858681"
@@ -8660,9 +8677,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-8cChqz0RP6SHJkMt48FW0A7+qUOn+OsnOsVtzI59tZ8m+5bCSk7hzwET0pulwOM2YMn9J1efb07KB9l9f30SGg==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
