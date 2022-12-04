@@ -3532,9 +3532,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.2.0, decompress-response@^3.3.0:
   version "3.3.0"
@@ -5099,6 +5099,23 @@ gatsby-telemetry@^1.1.46:
     stack-trace "^0.0.10"
     stack-utils "1.0.2"
     uuid "3.3.3"
+
+gatsby-theme-apollo-clone@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-apollo-clone/-/gatsby-theme-apollo-clone-0.0.1.tgz#60c74943198dd6d225ff7fa881546500f0a9a955"
+  integrity sha512-GSBTMBcNvnbqGIO2HEHvxxClJq2hLjVgptQQgjeMVg8c3IpQ5tS8N52c+3UPtBPSH9ijYvgOYydEFmKu9oiwxg==
+  dependencies:
+    "@mdx-js/mdx" "^1.5.1"
+    "@mdx-js/react" "^1.5.1"
+    classnames "^2.2.6"
+    gatsby-plugin-layout "^1.1.16"
+    gatsby-plugin-mdx "^1.0.58"
+    gatsby-source-filesystem "^2.1.39"
+    gatsby-transformer-remark "^2.6.38"
+    prop-types "^15.7.2"
+    react "^16.12"
+    react-dom "^16.12"
+    rehype-react "^4.0.1"
 
 gatsby-transformer-remark@^2.6.38:
   version "2.6.38"
